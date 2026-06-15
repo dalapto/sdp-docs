@@ -9,8 +9,8 @@ Sadly, I only have the documentation here.
 
 ```
 📁 docs
-├── 📄 demo2_presentation.pdf         # Initial container shown before user logs in.
-├── 📄 group_8_report3.pdf                    # Various helpers for things like distance calculations.
-├── 📄 group-8-projectplan.pdf                   # Main container to render other fragments in.
-└── 📄 group-8-userguide.pdf               # Used to render multipe views / pages.
+├── 📄 demo2_presentation.pdf         
+├── 📄 group_8_report3.pdf                    
+├── 📄 group-8-projectplan.pdf                   
+└── 📄 group-8-userguide.pdf               
 ```
