@@ -1,7 +1,7 @@
 # Robot Group Project 🤖
 
 This is the repository for my 3rd year uni group project, where we built an auto-sorting bin called Recyclotron 🚮.<br/>
-As it was over COVID, we did make a website for our final presentation: https://recyclotron.zhixing.dev/
+As it was over COVID, we also made a website for our final presentation: https://recyclotron.zhixing.dev/
 
 Sadly, I only have the documentation here. 
 
